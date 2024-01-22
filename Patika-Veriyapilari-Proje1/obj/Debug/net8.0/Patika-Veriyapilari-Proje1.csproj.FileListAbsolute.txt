@@ -1,0 +1,14 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\bin\Debug\net8.0\Patika-Veriyapilari-Proje1.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\bin\Debug\net8.0\Patika-Veriyapilari-Proje1.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\bin\Debug\net8.0\Patika-Veriyapilari-Proje1.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\bin\Debug\net8.0\Patika-Veriyapilari-Proje1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\bin\Debug\net8.0\Patika-Veriyapilari-Proje1.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\refint\Patika-Veriyapilari-Proje1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\Patika-Veriyapilari-Proje1.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Patika-Veriyapilari-Proje1\obj\Debug\net8.0\ref\Patika-Veriyapilari-Proje1.dll
